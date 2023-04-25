@@ -8,7 +8,8 @@ With our app, you can customize your reading experience to suit your preferences
  # Built-in dictionary
 Our app comes with a built-in dictionary, so you can easily look up words as you read. Simply tap on a word to see its definition, or long-press to save it to your vocabulary list.
 
-![Screenshot (30)](https://user-images.githubusercontent.com/47611958/234148489-68301c71-dca4-43c6-ba9b-60bacef716dd.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/47611958/234149962-105f21e2-3ce1-4507-bb4e-32ad3e2ace3f.png)
+
 
 
 
@@ -29,4 +30,7 @@ Bu, projenin ilk prototipidir ve şu anda her şey geliştirilme aşamasındadı
   Herhangi bir öneriniz veya geri bildiriminiz varsa, lütfen bize ulaşmaktan çekinmeyin.
 
 Desteğin için teşekkürler!
+
+# 
+![Screenshot (30)](https://user-images.githubusercontent.com/47611958/234148489-68301c71-dca4-43c6-ba9b-60bacef716dd.png)
 
