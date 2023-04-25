@@ -21,7 +21,7 @@ Our app comes with a built-in dictionary, so you can easily look up words as you
 
 Thank you for your support!
 
-# Turkish 
+# TÜRKÇE 
 
 Bu, projenin ilk prototipidir ve şu anda her şey geliştirilme aşamasındadır.
 
