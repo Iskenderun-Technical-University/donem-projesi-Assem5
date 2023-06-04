@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/uelKf0-p)
 
-#  Welcome to our e-book reader app!
+#  Welcome to our IT BOOK STORE app!
 Our e-book reader app is designed to make reading on your device a breeze. With a wide range of customizable features and an intuitive interface, our app is perfect for avid readers who want to read their favorite books on-the-go. Here are some of the key features of our app:
 
 # Customizable reading settings
