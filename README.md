@@ -1,13 +1,14 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/uelKf0-p)
 
 #  Welcome to our IT BOOK STORE app!
-Our e-book reader app is designed to make reading on your device a breeze. With a wide range of customizable features and an intuitive interface, our app is perfect for avid readers who want to read their favorite books on-the-go. Here are some of the key features of our app:
+Our Book Store  app is designed to make your Experince More Easier.With a wide range of customizable features and an intuitive interface, our app is perfect for avid readers. Here are some of the key features of our app:
 
-# Customizable reading settings
-With our app, you can customize your reading experience to suit your preferences. You can adjust font size and style, line spacing, and margins to make reading more comfortable. You can also choose between different color schemes and adjust the brightness to reduce eye strain.
+#  Extensive Book Collection
 
- # Built-in dictionary
-Our app comes with a built-in dictionary, so you can easily look up words as you read. Simply tap on a word to see its definition, or long-press to save it to your vocabulary list.
+Our Book Store app boasts an extensive collection of books, covering a wide range of genres and topics. 
+
+ # Personalized Recommendations
+Finding your next great read has never been easier! Our Book Store app employs advanced algorithms to offer personalized book recommendations based on your reading preferences and past activity. 
 
 ![Screenshot (39)](https://github.com/Iskenderun-Technical-University/donem-projesi-IT-BOOK-STORE/assets/47611958/ce5b5bbf-c75b-4855-ab92-6e93ff730cdb)
 
