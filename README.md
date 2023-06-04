@@ -34,4 +34,15 @@ Desteğin için teşekkürler!
 
 # 
 ![Screenshot (40)](https://github.com/Iskenderun-Technical-University/donem-projesi-IT-BOOK-STORE/assets/47611958/6619dbbb-3a5b-4140-a43b-cda5718cc3d2)
+ 
+ UPDATE :  
+![Screenshot (41)](https://github.com/Iskenderun-Technical-University/donem-projesi-IT-BOOK-STORE/assets/47611958/465d385d-998d-4a29-9008-3f11c6649066)
+
+ADDING BILLIN TO THE USER TO BUY STUFF 
+
+
+
+
+
+UPDATE FINISHING : 
 
